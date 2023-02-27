@@ -11,7 +11,7 @@ Miku.gg is an open source chatbot platform for running your bots. Users can down
 ## Features
 
 -   **Open source**: Miku.gg is open-source and free to use. You can download the source code and run your own chatbot.
--   **Compatible with any prompt completer**: Currently, you can use Pygmalion6B or OpenAI's Davinci to power your chatbot. But the code is designed to be compatible with any prompt completer.
+-   **Compatible with any prompt completer**: Currently, you can use Pygmalion6B or OpenAI's Davinci to power your chatbot, but the code is designed to be compatible with any prompt completer.
 -   **Emotion images and TTS**: Your bots can display emotion through images and have voice through TTS. It currently supports Azure TTS and ElevenLabs. Emotion analysis is only supported with OpenAI Embeddings, but it will be available with SBERT soon.
 -   **Customizable**: You can customize the bot's name, avatar, and background. You can also customize the bot's responses and add your own custom commands.
--   **Live demo**: You can try out the bot on the live demo with Open AI, but you will need to provide your own API key.
+-   **Live demo**: You can try out the bot on the [live demo with Open AI](https://alpha.miku.gg), but you will need to [provide your own API key](/guides/run-cloud.md#1.-Get-an-OpenAI-API-key).

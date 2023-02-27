@@ -18,7 +18,7 @@ After selecting a bot, you can start chatting with it.
 
 * Set "Dialog" to send conversation messages. You can also do actions with asterisks; for example `*pats her in the head*`
 * Set "Context" to indicate an environment change. For example, if you want to role-play going to the beach with your bot, write `They go to the beach`.
-* The "credits" amount is a feature for development purposes. It's just there to show the estimated cost of interaction. It's not used for anything else.
+* The "credits" amount is a feature for development purposes. It's just there to show the estimated cost of the current interaction. It's not used for anything else.
 
 ### Save and load chat history
 
